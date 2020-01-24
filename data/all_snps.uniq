@@ -1,0 +1,475 @@
+      3 , 1006437,snp,T,C,303/618,101/205,synonymous_variant c.303T>C p.Gly101Gly,STM14_1090,dmsB,anaerobic dimethyl sulfoxide reductase subunit B
+      3 , 1006719,snp,C,T,585/618,195/205,synonymous_variant c.585C>T p.Thr195Thr,STM14_1090,dmsB,anaerobic dimethyl sulfoxide reductase subunit B
+      1 , 1012844,snp,A,T,425/960,142/319,missense_variant c.425A>T p.Asp142Val,STM14_1098,,SopD-like protein
+      1 , 1030974,snp,G,T,436/978,146/325,missense_variant c.436G>T p.Asp146Tyr,STM14_1114,lpxK,tetraacyldisaccharide 4'-kinase
+      1 , 1048120,snp,A,G,7/132,3/43,missense_variant c.7T>C p.Tyr3His,STM14_1129,,hypothetical protein
+      1 , 1084733,snp,T,C,366/2988,122/995,synonymous_variant c.366T>C p.Ile122Ile,STM14_1181,,minor tail protein
+      1 , 1085373,snp,G,A,1006/2988,336/995,missense_variant c.1006G>A p.Val336Met,STM14_1181,,minor tail protein
+      1 , 1085397,snp,G,A,1030/2988,344/995,missense_variant c.1030G>A p.Ala344Thr,STM14_1181,,minor tail protein
+      1 , 1085693,snp,G,A,1326/2988,442/995,synonymous_variant c.1326G>A p.Ala442Ala,STM14_1181,,minor tail protein
+      1 , 1085726,snp,T,C,1359/2988,453/995,synonymous_variant c.1359T>C p.Asp453Asp,STM14_1181,,minor tail protein
+      1 , 1085741,snp,A,G,1374/2988,458/995,synonymous_variant c.1374A>G p.Lys458Lys,STM14_1181,,minor tail protein
+      1 , 1085975,snp,T,C,1608/2988,536/995,synonymous_variant c.1608T>C p.His536His,STM14_1181,,minor tail protein
+      1 , 1086554,snp,G,A,2187/2988,729/995,synonymous_variant c.2187G>A p.Lys729Lys,STM14_1181,,minor tail protein
+      1 , 1096060,snp,G,A,1240/2439,414/812,missense_variant c.1240G>A p.Ala414Thr,STM14_1190,,tail fiber protein
+      1 , 1097665,complex,GCCGTCTTT,ACAGGCTCC,407/582,136/193,missense_variant c.407_415delGCCGTCTTTinsACAGGCTCC p.SerArgLeuLeu136AsnArgLeuLeu,STM14_1191,,tail fiber assembly like-protein
+      1 , 1100819,snp,T,C,108/300,36/99,synonymous_variant c.108A>G p.Leu36Leu,STM14_1196,,hypothetical protein
+      1 , 1101231,snp,C,A,367/687,123/228,missense_variant c.367G>T p.Asp123Tyr,STM14_1197,,hypothetical protein
+      1 , 1101300,snp,C,A,298/687,100/228,stop_gained c.298G>T p.Glu100*,STM14_1197,,hypothetical protein
+      1 , 1101606,snp,C,A
+      1 , 1101750,snp,G,T
+     64 , 1115779,ins,G,GT
+      8 , 1135816,snp,A,G
+      4 , 1135965,snp,C,A,79/321,27/106,missense_variant c.79C>A p.Leu27Ile,STM14_1235,,putative inner membrane protein
+      1 , 1143230,snp,T,C,108/108,36/35,splice_region_variant&stop_retained_variant c.108A>G p.Ter36Ter,STM14_1244,,hypothetical protein
+      1 , 1148291,snp,G,A,441/1467,147/488,stop_gained c.441G>A p.Trp147*,STM14_1251,hpaE,4-hydroxyphenylacetate catabolism
+      1 , 1156641,snp,G,A
+      1 , 1159874,del,AT,A,971/1887,324/628,frameshift_variant c.971delT p.Leu324fs,STM14_1267,scsB,suppression of copper sensitivity protein
+      1 , 1160243,snp,T,G,1335/1887,445/628,synonymous_variant c.1335T>G p.Leu445Leu,STM14_1267,scsB,suppression of copper sensitivity protein
+      1 , 1160272,snp,T,G,1364/1887,455/628,missense_variant c.1364T>G p.Leu455Arg,STM14_1267,scsB,suppression of copper sensitivity protein
+      1 , 1160286,snp,C,G,1378/1887,460/628,missense_variant c.1378C>G p.Pro460Ala,STM14_1267,scsB,suppression of copper sensitivity protein
+      1 , 1167455,snp,T,C
+      5 , 117042,snp,A,G
+      1 , 117090,snp,C,T
+      1 , 117271,snp,T,C
+      1 , 117350,snp,C,A
+      1 , 1178571,snp,G,T,767/1161,256/386,missense_variant c.767G>T p.Trp256Leu,STM14_1293,,putative inner membrane protein
+      1 , 1179076,snp,G,A,66/693,22/230,synonymous_variant c.66G>A p.Ala22Ala,STM14_1294,,putative outer membrane protein
+      1 , 1182842,snp,A,G
+      2 , 1188696,snp,A,G,1/138,1/45,initiator_codon_variant&non_canonical_start_codon c.1T>C p.Leu1?,STM14_1307,,hypothetical protein
+      1 , 1188724,del,TG,T
+      3 , 1188725,del,GT,G
+      2 , 1188731,snp,C,A
+      1 , 1188750,snp,A,G
+      1 , 1188826,snp,G,T
+      2 , 1191162,del,AG,A
+      1 , 1191162,del,AGG,A
+      1 , 1252512,snp,T,G
+      1 , 1256975,snp,T,G,91/156,31/51,missense_variant c.91A>C p.Asn31His,STM14_1390,,hypothetical protein
+      1 , 1258165,del,AG,A,2339/3447,780/1148,frameshift_variant c.2339delC p.Pro780fs,STM14_1391,mfd,transcription-repair coupling factor
+      1 , 1289540,snp,A,C,907/2355,303/784,missense_variant c.907T>G p.Ser303Ala,STM14_1423,,exodeoxyribonuclease 8
+      1 , 1289649,snp,A,G,798/2355,266/784,synonymous_variant c.798T>C p.Gly266Gly,STM14_1423,,exodeoxyribonuclease 8
+      2 , 1289682,snp,C,T,765/2355,255/784,synonymous_variant c.765G>A p.Arg255Arg,STM14_1423,,exodeoxyribonuclease 8
+     63 , 1290523,del,AT,A,281/300,94/99,frameshift_variant c.281delA p.Asp94fs,STM14_1424,,prophage RecE
+      2 , 1296990,snp,C,T,36/654,12/217,synonymous_variant c.36C>T p.Thr12Thr,STM14_1436,,Eaa-like protein
+     23 , 1328473,snp,T,A,1875/2346,625/781,missense_variant c.1875T>A p.Asn625Lys,STM14_1478,,side tail fiber protein
+      1 , 1335694,snp,C,A
+      1 , 1337739,snp,G,A
+      1 , 1337850,snp,C,T
+      1 , 1337874,snp,C,A
+      1 , 1337956,snp,G,C
+      1 , 1342208,snp,T,C
+      1 , 1359213,snp,T,C
+      1 , 1371444,snp,C,T,238/1287,80/428,missense_variant c.238G>A p.Asp80Asn,STM14_1556,yeaH,hypothetical protein
+      1 , 140045,snp,C,A,997/1005,333/334,missense_variant c.997C>A p.Arg333Ser,STM14_0142,fruR,DNA-binding transcriptional regulator FruR
+      1 , 1420618,snp,G,T,669/1224,223/407,synonymous_variant c.669C>A p.Val223Val,STM14_1616,rfc,O-antigen polymerase
+      1 , 1420661,ins,A,AT,625/1224,209/407,frameshift_variant c.625dupA p.Ile209fs,STM14_1616,rfc,O-antigen polymerase
+      1 , 1433140,snp,C,T,367/714,123/237,stop_gained c.367C>T p.Gln123*,STM14_1632,ydiV,hypothetical protein
+      1 , 1439286,snp,T,A,1541/2379,514/792,missense_variant c.1541T>A p.Phe514Tyr,STM14_1639,pps,phosphoenolpyruvate synthase
+      1 , 1450014,snp,A,G,338/759,113/252,missense_variant c.338T>C p.Ile113Thr,STM14_1649,aroD,3-dehydroquinate dehydratase
+      1 , 1458869,complex,CCAG,ACAT,2390/3057,797/1018,missense_variant c.2390_2393delCCAGinsACAT p.ThrSer797AsnIle,STM14_1659,ydiJ,putative oxidase
+      1 , 1458881,snp,A,C,2402/3057,801/1018,missense_variant c.2402A>C p.Asp801Ala,STM14_1659,ydiJ,putative oxidase
+      1 , 1467050,del,TG,T,893/1221,298/406,frameshift_variant c.893delG p.Gly298fs,STM14_1667,sufS,selenocysteine lyase
+      1 , 1470560,snp,G,T,755/1413,252/470,missense_variant c.755C>A p.Pro252Gln,STM14_1672,pykF,pyruvate kinase
+      1 , 1493377,snp,T,C
+      1 , 1493393,snp,C,G
+      1 , 1493497,snp,T,C,88/108,30/35,missense_variant c.88T>C p.Ser30Pro,STM14_1692,,hypothetical protein
+      1 , 1524381,snp,T,C,277/600,93/199,missense_variant c.277A>G p.Thr93Ala,STM14_1735,ydhM,putative transcriptional repressor
+      1 , 1531924,snp,A,T,842/1122,281/373,missense_variant c.842A>T p.Gln281Leu,STM14_1744,anmK,anhydro-N-acetylmuramic acid kinase
+      1 , 1536563,snp,A,C,1369/1506,457/501,missense_variant c.1369T>G p.Tyr457Asp,STM14_1750,tppB,putative tripeptide transporter permease
+      1 , 1538479,snp,A,C
+      1 , 1538779,del,GA,G,389/636,130/211,frameshift_variant c.389delT p.Phe130fs,STM14_1752,nth,endonuclease III
+      1 , 1541609,complex,AGCA,TTCC,2145/2208,714/735,missense_variant c.2142_2145delTGCTinsGGAA p.ValAla714ValGlu,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541698,snp,C,A,2056/2208,686/735,missense_variant c.2056G>T p.Ala686Ser,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541717,snp,G,A,2037/2208,679/735,synonymous_variant c.2037C>T p.Arg679Arg,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541752,snp,T,C,2002/2208,668/735,missense_variant c.2002A>G p.Thr668Ala,STM14_1756,,electron transport complex protein RnfC
+      4 , 1541768,snp,G,A,1986/2208,662/735,synonymous_variant c.1986C>T p.Arg662Arg,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541810,snp,G,A,1944/2208,648/735,synonymous_variant c.1944C>T p.Arg648Arg,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541824,snp,C,G,1930/2208,644/735,missense_variant c.1930G>C p.Ala644Pro,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541903,snp,A,G,1851/2208,617/735,synonymous_variant c.1851T>C p.Arg617Arg,STM14_1756,,electron transport complex protein RnfC
+      1 , 1541922,complex,ACC,GCA,1832/2208,610/735,missense_variant c.1830_1832delGGTinsTGC p.ProVal610ProAla,STM14_1756,,electron transport complex protein RnfC
+      1 , 1542023,snp,G,A,1731/2208,577/735,synonymous_variant c.1731C>T p.Ser577Ser,STM14_1756,,electron transport complex protein RnfC
+      1 , 1542031,snp,C,T,1723/2208,575/735,missense_variant c.1723G>A p.Ala575Thr,STM14_1756,,electron transport complex protein RnfC
+      1 , 1542099,snp,T,A,1655/2208,552/735,missense_variant c.1655A>T p.Asp552Val,STM14_1756,,electron transport complex protein RnfC
+      1 , 1561057,snp,T,A,215/359,72/118,missense_variant c.215T>A p.Phe72Tyr,STM14_1778
+      1 , 1565856,snp,G,A,184/1530,62/509,missense_variant c.184G>A p.Ala62Thr,STM14_1787,pntA,NAD(P) transhydrogenase subunit alpha
+      7 , 1583801,snp,A,G,585/618,195/205,synonymous_variant c.585T>C p.Thr195Thr,STM14_1808,,putative dimethyl sulphoxide reductase
+      2 , 1584083,snp,G,A,303/618,101/205,synonymous_variant c.303C>T p.Gly101Gly,STM14_1808,,putative dimethyl sulphoxide reductase
+      1 , 1608807,snp,T,C,641/666,214/221,missense_variant c.641T>C p.Leu214Ser,STM14_1839,marC,multiple drug resistance protein MarC
+      1 , 1612111,snp,G,T,952/1389,318/462,stop_gained c.952G>T p.Glu318*,STM14_1842,yneI,putative succinate-semialdehyde dehydrogenase
+      1 , 1616218,snp,G,T
+      1 , 1635244,snp,G,T,394/1080,132/359,stop_gained c.394G>T p.Glu132*,STM14_1868,,putative S-adenosylmethionine/tRNA-ribosyltransferase-isomerase
+      1 , 1641121,snp,C,A,728/1467,243/488,missense_variant c.728G>T p.Trp243Leu,STM14_1877,,putative coiled-coil protein
+      1 , 1641751,snp,T,A,98/1467,33/488,missense_variant c.98A>T p.Glu33Val,STM14_1877,,putative coiled-coil protein
+      1 , 1650273,snp,T,C,425/2529,142/842,missense_variant c.425A>G p.Glu142Gly,STM14_1882,,putative glycosyl hydrolase
+      1 , 1654746,snp,C,T
+      1 , 1665179,snp,G,T,30/1089,10/362,synonymous_variant c.30G>T p.Val10Val,STM14_1898,nmpC,putative outer membrane porin precursor
+      1 , 1669984,snp,A,G,801/1389,267/462,synonymous_variant c.801A>G p.Ser267Ser,STM14_1903,narU,nitrate extrusion protein
+      1 , 1672096,snp,T,G,1433/3741,478/1246,missense_variant c.1433T>G p.Leu478Arg,STM14_1905,narZ,nitrate reductase 2 alpha subunit
+      1 , 1683158,snp,A,G,466/1062,156/353,missense_variant c.466T>C p.Tyr156His,STM14_1918,,putative periplasmic protein
+      1 , 1683552,snp,G,T,72/1062,24/353,synonymous_variant c.72C>A p.Ser24Ser,STM14_1918,,putative periplasmic protein
+      1 , 1686282,snp,G,T,458/666,153/221,missense_variant c.458C>A p.Ala153Asp,STM14_1921,yncC,putative DNA-binding transcriptional regulator
+      1 , 1690353,snp,G,A,606/1320,202/439,synonymous_variant c.606G>A p.Glu202Glu,STM14_1928,srfA,putative virulence protein
+      1 , 1692378,snp,C,T,1307/2982,436/993,missense_variant c.1307C>T p.Ala436Val,STM14_1929,srfB,putative virulence protein
+      1 , 1701663,snp,T,C
+      1 , 1701853,snp,A,G
+     64 , 1723496,snp,T,C,1084/1344,362/447,missense_variant c.1084A>G p.Thr362Ala,STM14_1964,,putative cytoplasmic protein
+      1 , 1724887,snp,C,A,16/924,6/307,missense_variant c.16C>A p.Leu6Met,STM14_1965,ydcI,putative transcriptional regulator
+      1 , 1727782,snp,A,G,987/1119,329/372,synonymous_variant c.987T>C p.Asp329Asp,STM14_1968,,alcohol dehydrogenase class III
+      1 , 1735249,snp,C,T,614/648,205/215,missense_variant c.614C>T p.Ala205Val,STM14_1978,,putative ABC transporter permease component
+      1 , 1742675,snp,C,A,2482/3846,828/1281,missense_variant c.2482G>T p.Asp828Tyr,STM14_1985,hrpA,ATP-dependent RNA helicase HrpA
+      1 , 1742854,snp,T,G,2303/3846,768/1281,missense_variant c.2303A>C p.Asp768Ala,STM14_1985,hrpA,ATP-dependent RNA helicase HrpA
+      1 , 1749725,snp,C,A,42/2637,14/878,synonymous_variant c.42G>T p.Leu14Leu,STM14_1990,ydbH,hypothetical protein
+      1 , 1755799,del,AT,A,95/210,32/69,frameshift_variant c.95delA p.Asn32fs,STM14_1996,,hypothetical protein
+      1 , 1757535,snp,T,C,250/936,84/311,missense_variant c.250T>C p.Phe84Leu,STM14_2000,ydaO,C32 tRNA thiolase
+      1 , 1774527,snp,G,T,155/859,52/285,missense_variant c.155G>T p.Arg52Leu,STM14_2018
+      1 , 1784745,snp,C,A,702/966,234/321,synonymous_variant c.702G>T p.Leu234Leu,STM14_2029,ycjG,putative chloromuconate cycloisomerase
+      1 , 1787500,snp,C,A,912/1542,304/513,synonymous_variant c.912G>T p.Ser304Ser,STM14_2033,tyrR,DNA-binding transcriptional regulator TyrR
+      1 , 1787511,snp,C,G,901/1542,301/513,missense_variant c.901G>C p.Gly301Arg,STM14_2033,tyrR,DNA-binding transcriptional regulator TyrR
+      1 , 1787528,snp,A,T,884/1542,295/513,missense_variant c.884T>A p.Val295Glu,STM14_2033,tyrR,DNA-binding transcriptional regulator TyrR
+      1 , 1789490,snp,T,C,131/1062,44/353,missense_variant c.131A>G p.Glu44Gly,STM14_2034,ycjF,hypothetical protein
+      1 , 1789495,snp,G,A,126/1062,42/353,synonymous_variant c.126C>T p.Ile42Ile,STM14_2034,ycjF,hypothetical protein
+      1 , 1792584,snp,A,G,522/669,174/222,synonymous_variant c.522T>C p.Arg174Arg,STM14_2040,pspA,phage shock protein PspA
+      1 , 1800468,ins,G,GA
+      1 , 1805308,snp,G,T,274/1935,92/644,missense_variant c.274G>T p.Gly92Cys,STM14_2056,rnb,exoribonuclease II
+      1 , 1808614,snp,T,C,1384/1983,462/660,missense_variant c.1384T>C p.Ser462Pro,STM14_2058,yciR,RNase II stability modulator
+      1 , 1820976,complex,GAT,TAA,2103/2598,701/865,missense_variant c.2101_2103delATCinsTTA p.Ile701Leu,STM14_2075,topA,DNA topoisomerase I
+      1 , 1827221,snp,T,C,148/876,50/291,missense_variant c.148A>G p.Ile50Val,STM14_2082,yciL,23S rRNA pseudouridylate synthase B
+      1 , 1835353,snp,C,A,393/807,131/268,synonymous_variant c.393C>A p.Val131Val,STM14_2090,trpA,tryptophan synthase subunit alpha
+      1 , 1835832,snp,A,C
+      1 , 1836181,snp,T,C
+      1 , 1852713,snp,A,G,628/648,210/215,missense_variant c.628T>C p.Phe210Leu,STM14_2112,ychE,hypothetical protein
+      1 , 1866067,snp,A,T,88/165,30/54,missense_variant c.88A>T p.Thr30Ser,STM14_2128,,conserved hypothetical protein
+      1 , 189065,snp,A,G,2504/2598,835/865,missense_variant c.2504A>G p.Lys835Arg,STM14_0190,acnB,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+      1 , 189095,complex,AC,TT,2534/2598,845/865,missense_variant c.2534_2535delACinsTT p.Asn845Ile,STM14_0190,acnB,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+      1 , 1894131,snp,C,A,892/1266,298/421,missense_variant c.892G>T p.Asp298Tyr,STM14_2159,,putative cytoplasmic protein
+      1 , 1895143,snp,T,A
+      1 , 1899666,snp,C,A,495/597,165/198,synonymous_variant c.495C>A p.Val165Val,STM14_2164,,hydrogenase 1 maturation protease
+      1 , 1905080,snp,A,C,861/1326,287/441,synonymous_variant c.861A>C p.Thr287Thr,STM14_2170,,putative glutamic dehyrogenase-like protein
+      1 , 1907808,del,TA,T
+     24 , 1925862,del,CA,C
+      1 , 1963284,snp,T,C,102/129,34/42,synonymous_variant c.102T>C p.Val34Val,STM14_2243,,hypothetical protein
+      4 , 1969614,snp,C,T
+      1 , 1969678,snp,T,C
+      2 , 1975897,snp,T,G,43/1059,15/352,missense_variant c.43A>C p.Asn15His,STM14_2266,mig-3,phage side tail fiber assembly protein
+      1 , 1976145,snp,G,T,36/264,12/87,synonymous_variant c.36C>A p.Ile12Ile,STM14_2267,,hypothetical protein
+      1 , 2024788,snp,T,C,356/1050,119/349,missense_variant c.356A>G p.Tyr119Cys,STM14_2332,cheB,chemotaxis-specific methylesterase
+      1 , 202915,del,TA,T,37/927,13/308,frameshift_variant c.37delA p.Thr13fs,STM14_0204,yadG,putative ABC-type multidrug transport system ATPase component
+      1 , 2033315,ins,T,TCAAC,156/351,52/116,frameshift_variant c.153_156dupGTTG p.Thr53fs,STM14_2341,flhD,transcriptional activator FlhD
+      1 , 2033355,del,GA,G,116/351,39/116,frameshift_variant c.116delT p.Leu39fs,STM14_2341,flhD,transcriptional activator FlhD
+      1 , 2034092,snp,G,T
+      1 , 2038468,snp,G,T
+      1 , 2051244,snp,C,T,542/723,181/240,missense_variant c.542G>A p.Ser181Asn,STM14_2368,sdiA,DNA-binding transcriptional activator SdiA
+      1 , 2065937,snp,C,T,791/1266,264/421,missense_variant c.791C>T p.Ser264Leu,STM14_2385,yedE,putative inner membrane protein
+      1 , 2073709,snp,T,C,564/1218,188/405,synonymous_variant c.564T>C p.Ser188Ser,STM14_2395,fliK,flagellar hook-length control protein
+      1 , 2087739,snp,T,G,195/696,65/231,missense_variant c.195A>C p.Lys65Asn,STM14_2415,yedJ,hypothetical protein
+      1 , 2088509,snp,A,G
+      1 , 2088637,snp,C,A
+      1 , 2088807,snp,T,C
+      1 , 2088904,snp,T,A,62/120,21/39,missense_variant c.62T>A p.Ile21Lys,STM14_2417,,hypothetical protein
+      6 , 2093341,snp,T,C,155/243,52/80,missense_variant c.155A>G p.Asp52Gly,STM14_2425,,hypothetical protein
+      1 , 2095236,snp,T,C,897/1008,299/335,synonymous_variant c.897T>C p.Tyr299Tyr,STM14_2428,,hypothetical protein
+     11 , 2097541,snp,C,A,223/1563,75/520,missense_variant c.223G>T p.Asp75Tyr,STM14_2431,,hypothetical protein
+      2 , 2097547,snp,G,A,217/1563,73/520,synonymous_variant c.217C>T p.Leu73Leu,STM14_2431,,hypothetical protein
+     64 , 2104871,ins,T,TA,269/408,90/135,frameshift_variant c.269dupT p.Leu90fs,STM14_2439,,hypothetical protein
+      1 , 2118196,snp,A,T
+      1 , 2135900,snp,T,A
+      1 , 2138079,snp,A,T,82/2169,28/722,stop_gained c.82A>T p.Lys28*,STM14_2491,,TPR repeat-containing protein
+      1 , 2150665,snp,A,G,30/744,10/247,synonymous_variant c.30T>C p.Ala10Ala,STM14_2505,cobS,cobalamin synthase
+      1 , 2158446,snp,G,A,885/1056,295/351,synonymous_variant c.885C>T p.Ala295Ala,STM14_2516,cbiG,cobalamin biosynthesis protein CbiG
+      1 , 2166874,snp,C,A
+     60 , 2168196,del,TA,T
+      1 , 2168202,complex,ATGAAATAATAAAA,TGAAATAATAAAG
+      1 , 2168350,snp,G,T
+      1 , 2171793,snp,G,A,609/675,203/224,synonymous_variant c.609G>A p.Leu203Leu,STM14_2530,pduD,propanediol dehydratase medium subunit
+      1 , 2179932,snp,G,A,754/1113,252/370,missense_variant c.754G>A p.Gly252Arg,STM14_2541,pduQ,propanol dehydrogenase
+      1 , 2179945,snp,T,C,767/1113,256/370,missense_variant c.767T>C p.Leu256Pro,STM14_2541,pduQ,propanol dehydrogenase
+      1 , 2179986,snp,A,G,808/1113,270/370,missense_variant c.808A>G p.Ile270Val,STM14_2541,pduQ,propanol dehydrogenase
+      9 , 2192799,snp,T,C
+      1 , 2206325,snp,G,T,123/738,41/245,missense_variant c.123G>T p.Gln41His,STM14_2570,hisA,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+      1 , 2218216,snp,A,T,636/1062,212/353,synonymous_variant c.636T>A p.Ser212Ser,STM14_2580,rfbU,mannosyl transferase
+      1 , 2221305,snp,T,G,165/1293,55/430,missense_variant c.165A>C p.Leu55Phe,STM14_2582,rfbX,putative O-antigen transferase
+      1 , 2221311,snp,A,T,159/1293,53/430,synonymous_variant c.159T>A p.Gly53Gly,STM14_2582,rfbX,putative O-antigen transferase
+      2 , 2230211,snp,T,C
+      1 , 2282782,snp,T,C,40/114,14/37,missense_variant c.40A>G p.Met14Val,STM14_2635,,hypothetical protein
+      1 , 2283051,snp,G,T,3/1047,1/348,initiator_codon_variant c.3G>T p.Met1?,STM14_2636
+      1 , 230841,del,CATTATAAAACTTCGATAATAAAATATTATTTTTT,C
+      1 , 230848,snp,A,T
+      1 , 230855,snp,G,T
+      1 , 230869,snp,A,G
+      1 , 230881,snp,A,G
+      1 , 230883,snp,T,G
+      1 , 230898,snp,C,A
+      1 , 231113,snp,A,C,113/144,38/47,missense_variant c.113A>C p.Asn38Thr,STM14_0233,,hypothetical protein
+      1 , 231148,snp,A,C
+      1 , 2321992,snp,C,A
+      1 , 2345821,snp,G,T,3/888,1/295,initiator_codon_variant c.3G>T p.Met1?,STM14_2711,,putative phosphoserine phosphatase
+      1 , 2346838,snp,A,T,100/1323,34/440,missense_variant c.100A>T p.Ile34Phe,STM14_2712,,putative regulatory protein
+      1 , 2346936,snp,A,G,198/1323,66/440,synonymous_variant c.198A>G p.Ala66Ala,STM14_2712,,putative regulatory protein
+      1 , 2377286,snp,A,C,1186/1761,396/586,missense_variant c.1186A>C p.Lys396Gln,STM14_2748,yejH,putative ATP-dependent helicase
+      4 , 2387936,snp,A,C,223/1242,75/413,missense_variant c.223T>G p.Tyr75Asp,STM14_2761,,hypothetical protein
+      4 , 2387942,snp,A,G,217/1242,73/413,synonymous_variant c.217T>C p.Leu73Leu,STM14_2761,,hypothetical protein
+      1 , 2395866,snp,A,G,399/792,133/263,synonymous_variant c.399T>C p.Ser133Ser,STM14_2771,,putative tail fiber protein of phage
+      1 , 2396178,snp,C,T,87/792,29/263,synonymous_variant c.87G>A p.Ala29Ala,STM14_2771,,putative tail fiber protein of phage
+      1 , 2396217,snp,T,C,48/792,16/263,synonymous_variant c.48A>G p.Lys16Lys,STM14_2771,,putative tail fiber protein of phage
+      1 , 2396244,snp,T,G,21/792,7/263,synonymous_variant c.21A>C p.Ala7Ala,STM14_2771,,putative tail fiber protein of phage
+      2 , 2396379,snp,G,A
+      1 , 2397741,snp,C,A,27/147,9/48,missense_variant c.27C>A p.Phe9Leu,STM14_2774,,hypothetical protein
+      1 , 2422270,snp,C,A
+      1 , 2426061,snp,C,G,1840/2637,614/878,missense_variant c.1840G>C p.Ala614Pro,STM14_2804,gyrA,DNA gyrase subunit A
+      2 , 2427641,snp,T,C,260/2637,87/878,missense_variant c.260A>G p.Asp87Gly,STM14_2804,gyrA,DNA gyrase subunit A
+      2 , 2427653,snp,G,A,248/2637,83/878,missense_variant c.248C>T p.Ser83Phe,STM14_2804,gyrA,DNA gyrase subunit A
+      5 , 2427653,snp,G,T,248/2637,83/878,missense_variant c.248C>A p.Ser83Tyr,STM14_2804,gyrA,DNA gyrase subunit A
+     64 , 2480438,snp,A,G,617/1842,206/613,missense_variant c.617T>C p.Val206Ala,STM14_2859,nuoL,NADH dehydrogenase subunit L
+      1 , 2492512,del,ACCGCCG,A,103/939,33/312,disruptive_inframe_deletion c.98_103delCGGCGG p.Ala33_Ala34del,STM14_2873,lrhA,NADH dehydrogenase transcriptional repressor
+      1 , 2569033,snp,C,A
+      1 , 2620503,snp,G,T,1077/1404,359/467,synonymous_variant c.1077C>A p.Leu359Leu,STM14_3017,eutA,reactivating factor for ethanolamine ammonia lyase
+      1 , 2620621,snp,A,G,959/1404,320/467,missense_variant c.959T>C p.Leu320Pro,STM14_3017,eutA,reactivating factor for ethanolamine ammonia lyase
+      1 , 2622897,snp,G,A
+      1 , 2628589,snp,G,T,323/804,108/267,missense_variant c.323C>A p.Pro108Gln,STM14_3025,eutT,putative cobalamin adenosyltransferase
+     10 , 2682289,snp,A,G,2823/5970,941/1989,synonymous_variant c.2823T>C p.Gly941Gly,STM14_3078,shdA,AIDA autotransporter-like protein
+      1 , 2682304,snp,A,G,2808/5970,936/1989,synonymous_variant c.2808T>C p.Gly936Gly,STM14_3078,shdA,AIDA autotransporter-like protein
+      4 , 2682811,snp,C,G,2301/5970,767/1989,synonymous_variant c.2301G>C p.Val767Val,STM14_3078,shdA,AIDA autotransporter-like protein
+      2 , 2682847,snp,A,C,2265/5970,755/1989,missense_variant c.2265T>G p.Asp755Glu,STM14_3078,shdA,AIDA autotransporter-like protein
+      6 , 2682880,snp,A,G,2232/5970,744/1989,synonymous_variant c.2232T>C p.Asp744Asp,STM14_3078,shdA,AIDA autotransporter-like protein
+      1 , 2682935,snp,G,A,2177/5970,726/1989,missense_variant c.2177C>T p.Thr726Ile,STM14_3078,shdA,AIDA autotransporter-like protein
+      2 , 2683069,snp,G,A,2043/5970,681/1989,synonymous_variant c.2043C>T p.Asp681Asp,STM14_3078,shdA,AIDA autotransporter-like protein
+      7 , 2685687,snp,T,C,17/114,6/37,missense_variant c.17T>C p.Leu6Pro,STM14_3080,,hypothetical protein
+      5 , 2685726,snp,C,T,56/114,19/37,missense_variant c.56C>T p.Pro19Leu,STM14_3080,,hypothetical protein
+      1 , 2689733,snp,C,A,3529/7307,1177/2434,missense_variant c.3529G>T p.Ala1177Ser,STM14_3082,ratB
+      1 , 2689771,snp,G,A,3491/7307,1164/2434,missense_variant c.3491C>T p.Ala1164Val,STM14_3082,ratB
+      1 , 2692272,snp,G,T,990/7307,330/2434,missense_variant c.990C>A p.Ser330Arg,STM14_3082,ratB
+      1 , 2716857,snp,A,T,14/2406,5/801,stop_gained c.14T>A p.Leu5*,STM14_3103,,putative anaerobic dimethylsulfoxide reductase
+      1 , 2716863,snp,A,G,8/2406,3/801,missense_variant c.8T>C p.Phe3Ser,STM14_3103,,putative anaerobic dimethylsulfoxide reductase
+      1 , 2716988,snp,C,A
+      1 , 2724214,snp,C,A,36/4935,12/1644,missense_variant c.36G>T p.Met12Ile,STM14_3105,,putative inner membrane lipoprotein
+      1 , 2724373,snp,G,A
+      1 , 2749883,snp,G,T
+      1 , 2762419,snp,G,T,1276/3888,426/1295,missense_variant c.1276C>A p.Gln426Lys,STM14_3145,purG,phosphoribosylformylglycinamidine synthase
+      1 , 2781056,snp,A,G,528/1494,176/497,synonymous_variant c.528A>G p.Leu176Leu,STM14_3164,gogB,leucine-rich repeat-containing protein
+      1 , 2782339,snp,T,G,16/129,6/42,missense_variant c.16A>C p.Ile6Leu,STM14_3165,,hypothetical protein
+      1 , 2782419,del,AGCAAGG,A
+      1 , 2823377,snp,G,T,365/663,122/220,missense_variant c.365G>T p.Arg122Ile,STM14_3220,,hypothetical protein
+     23 , 2826322,complex,TATCT,AATCA,1534/2928,512/975,missense_variant c.1534_1538delTATCTinsAATCA p.TyrLeu512AsnGln,STM14_3224,,exodeoxyribonuclease VIII-like protein
+     64 , 2835849,snp,A,T,1588/1623,530/540,missense_variant c.1588A>T p.Ile530Phe,STM14_3237,nadB,L-aspartate oxidase
+      1 , 2838984,snp,T,G,5/900,2/299,missense_variant c.5A>C p.Asp2Ala,STM14_3241,yfiE,putative transcriptional regulator
+      1 , 2881007,snp,T,G
+      1 , 2881040,snp,T,C
+      1 , 2881122,snp,G,A,67/105,23/34,missense_variant c.67G>A p.Glu23Lys,STM14_3295,,hypothetical protein
+      1 , 2881145,snp,T,C,90/105,30/34,synonymous_variant c.90T>C p.Ile30Ile,STM14_3295,,hypothetical protein
+      1 , 2906480,snp,A,T,183/1284,61/427,missense_variant c.183A>T p.Glu61Asp,STM14_3310,,putative ATPase
+      1 , 2906695,snp,C,A,398/1284,133/427,missense_variant c.398C>A p.Ser133Tyr,STM14_3310,,putative ATPase
+      1 , 2906754,snp,G,T,457/1284,153/427,stop_gained c.457G>T p.Glu153*,STM14_3310,,putative ATPase
+      1 , 2907258,snp,G,C,961/1284,321/427,missense_variant c.961G>C p.Glu321Gln,STM14_3310,,putative ATPase
+      1 , 2908445,snp,T,C,138/162,46/53,synonymous_variant c.138A>G p.Leu46Leu,STM14_3312,,hypothetical protein
+      1 , 2908607,snp,A,T,348/357,116/118,synonymous_variant c.348T>A p.Gly116Gly,STM14_3313,,putative transcriptional regulator
+     64 , 2917346,snp,A,C,300/1542,100/513,missense_variant c.300T>G p.Phe100Leu,STM14_3323
+      1 , 2921810,snp,T,A,106/1875,36/624,missense_variant c.106T>A p.Phe36Ile,STM14_3328,,putative inner membrane protein
+      1 , 2923680,snp,C,A
+      1 , 2924782,snp,A,G,341/1284,114/427,missense_variant c.341T>C p.Ile114Thr,STM14_3329,,putative inner membrane protein
+      1 , 2929036,snp,T,A,1602/1983,534/660,missense_variant c.1602A>T p.Arg534Ser,STM14_3334,,putative DNA/RNA helicase
+      1 , 2930135,snp,A,C,503/1983,168/660,missense_variant c.503T>G p.Phe168Cys,STM14_3334,,putative DNA/RNA helicase
+     62 , 2934549,snp,A,T,437/1521,146/506,missense_variant c.437T>A p.Ile146Asn,STM14_3338,fljB,flagellin
+      1 , 2945529,snp,G,A,476/2181,159/726,missense_variant c.476C>T p.Ser159Phe,STM14_3348,iroN,outer membrane receptor FepA
+     12 , 2990118,complex,TAA,CCG
+     13 , 2990131,complex,TGC,CGT
+     13 , 2990143,snp,G,A
+      1 , 2990514,snp,A,G
+      1 , 2990521,snp,G,A
+      1 , 2990531,complex,CGATA,AGATT
+      1 , 2990562,snp,A,G
+      1 , 2990653,snp,G,A
+      1 , 2990660,snp,A,G
+      1 , 2990670,complex,AGATT,CGATA
+      1 , 2990701,snp,G,A
+      1 , 3009548,snp,C,A,665/2241,222/746,missense_variant c.665G>T p.Gly222Val,STM14_3434,hypF,hydrogenase maturation protein
+      1 , 3106766,snp,C,A,114/2664,38/887,missense_variant c.114G>T p.Met38Ile,STM14_3548,ygcB,putative helicase
+      1 , 311666,snp,G,A
+      1 , 317712,snp,C,T,135/486,45/161,synonymous_variant c.135C>T p.Gly45Gly,STM14_0324,,putative cytoplasmic protein
+      1 , 317718,snp,C,T,141/486,47/161,synonymous_variant c.141C>T p.Gly47Gly,STM14_0324,,putative cytoplasmic protein
+      2 , 3204456,snp,C,T,471/909,157/302,synonymous_variant c.471C>T p.His157His,STM14_3652,yohM,nickel/cobalt efflux protein RcnA
+      1 , 3204470,snp,A,C,485/909,162/302,missense_variant c.485A>C p.Asp162Ala,STM14_3652,yohM,nickel/cobalt efflux protein RcnA
+     64 , 3213731,snp,A,C
+      1 , 3230916,snp,T,C,135/147,45/48,synonymous_variant c.135A>G p.Ser45Ser,STM14_3686,,immunoglobulin VH domain protein
+      1 , 3236089,snp,A,T
+      1 , 3260609,snp,G,T
+      1 , 3260688,snp,C,A
+      1 , 330701,snp,G,T,144/2190,48/729,missense_variant c.144G>T p.Gln48His,STM14_0338,,putative cytoplasmic protein
+      1 , 3310034,snp,A,T,17/156,6/51,missense_variant c.17A>T p.Asn6Ile,STM14_3786,,hypothetical protein
+      1 , 3310089,snp,C,A,72/156,24/51,stop_gained c.72C>A p.Tyr24*,STM14_3786,,hypothetical protein
+      1 , 3310099,del,AAAAAAATCCAAATTGATTTACATCAATTAAC,A,84/156,28/51,frameshift_variant c.84_114delAAAAATCCAAATTGATTTACATCAATTAACA p.Lys28fs,STM14_3786,,hypothetical protein
+      1 , 3336044,snp,G,T,139/411,47/136,missense_variant c.139G>T p.Ala47Ser,STM14_3821,,putative cytoplasmic protein
+      1 , 3373592,snp,A,C,839/1797,280/598,missense_variant c.839A>C p.Glu280Ala,STM14_3866,,putative arylsulfate sulfotransferase
+      1 , 3373602,snp,A,G,849/1797,283/598,synonymous_variant c.849A>G p.Glu283Glu,STM14_3866,,putative arylsulfate sulfotransferase
+      1 , 338773,snp,A,C,260/447,87/148,missense_variant c.260A>C p.Lys87Thr,STM14_0342,,putative cytoplasmic protein
+      1 , 339377,snp,A,G,33/141,11/46,missense_variant c.33A>G p.Ile11Met,STM14_0344,,hypothetical protein
+      1 , 3431870,snp,T,A
+      3 , 3432365,snp,A,G
+     14 , 3432440,snp,T,C
+      1 , 3433057,snp,A,G,,,intragenic_variant n.3433057A>G ,STM14_3928,rnpB,regulatory RNA
+      1 , 34842,snp,G,T,15/147,5/48,missense_variant c.15G>T p.Arg5Ser,STM14_0040,,hypothetical protein
+      1 , 34864,snp,T,C,37/147,13/48,synonymous_variant c.37T>C p.Leu13Leu,STM14_0040,,hypothetical protein
+      1 , 34942,snp,G,T,115/147,39/48,missense_variant c.115G>T p.Gly39Cys,STM14_0040,,hypothetical protein
+      1 , 351951,snp,G,T,85/408,29/135,missense_variant c.85C>A p.Pro29Thr,STM14_0362,,VirG-like protein
+      1 , 351968,snp,G,T,68/408,23/135,missense_variant c.68C>A p.Ala23Asp,STM14_0362,,VirG-like protein
+      1 , 352036,snp,G,T
+      1 , 352038,snp,A,T
+      1 , 3532766,snp,T,G,1164/1302,388/433,synonymous_variant c.1164A>C p.Ala388Ala,STM14_4043,oadB,putative sodium ion pump oxaloacetate decarboxylase beta chain
+      1 , 3533039,snp,A,G,891/1302,297/433,synonymous_variant c.891T>C p.Arg297Arg,STM14_4043,oadB,putative sodium ion pump oxaloacetate decarboxylase beta chain
+      1 , 3533507,snp,A,G,423/1302,141/433,synonymous_variant c.423T>C p.Phe141Phe,STM14_4043,oadB,putative sodium ion pump oxaloacetate decarboxylase beta chain
+      1 , 3542580,snp,A,G
+      1 , 3643359,snp,G,T,331/5895,111/1964,missense_variant c.331G>T p.Asp111Tyr,STM14_4188,bigA,putative surface-exposed virulence protein
+      1 , 3643445,snp,C,A,417/5895,139/1964,synonymous_variant c.417C>A p.Pro139Pro,STM14_4188,bigA,putative surface-exposed virulence protein
+      5 , 3643454,snp,T,C,426/5895,142/1964,synonymous_variant c.426T>C p.Ser142Ser,STM14_4188,bigA,putative surface-exposed virulence protein
+      1 , 3643469,complex,GG,AA,441/5895,147/1964,missense_variant c.441_442delGGinsAA p.ValAla147ValThr,STM14_4188,bigA,putative surface-exposed virulence protein
+      3 , 3643470,snp,G,A,442/5895,148/1964,missense_variant c.442G>A p.Ala148Thr,STM14_4188,bigA,putative surface-exposed virulence protein
+      1 , 3643529,complex,TGAT,CGAA,501/5895,167/1964,missense_variant c.501_504delTGATinsCGAA p.AspAsp167AspGlu,STM14_4188,bigA,putative surface-exposed virulence protein
+      4 , 3643643,snp,T,C,615/5895,205/1964,synonymous_variant c.615T>C p.Pro205Pro,STM14_4188,bigA,putative surface-exposed virulence protein
+      1 , 3643700,snp,G,A,672/5895,224/1964,synonymous_variant c.672G>A p.Val224Val,STM14_4188,bigA,putative surface-exposed virulence protein
+      2 , 3643726,snp,A,G,698/5895,233/1964,missense_variant c.698A>G p.Asp233Gly,STM14_4188,bigA,putative surface-exposed virulence protein
+      2 , 3643727,snp,C,T,699/5895,233/1964,synonymous_variant c.699C>T p.Asp233Asp,STM14_4188,bigA,putative surface-exposed virulence protein
+      1 , 3643733,snp,G,A,705/5895,235/1964,synonymous_variant c.705G>A p.Val235Val,STM14_4188,bigA,putative surface-exposed virulence protein
+      5 , 3643745,snp,T,C,717/5895,239/1964,synonymous_variant c.717T>C p.Asp239Asp,STM14_4188,bigA,putative surface-exposed virulence protein
+      4 , 3643766,snp,A,G,738/5895,246/1964,synonymous_variant c.738A>G p.Val246Val,STM14_4188,bigA,putative surface-exposed virulence protein
+      3 , 3643778,snp,T,C,750/5895,250/1964,synonymous_variant c.750T>C p.Asp250Asp,STM14_4188,bigA,putative surface-exposed virulence protein
+      5 , 3672288,ins,G,GCCAGCC,1219/1353,407/450,conservative_inframe_insertion c.1214_1219dupGGCTGG p.Gly405_Leu406dup,STM14_4216,envZ,osmolarity sensor protein
+      7 , 3672318,snp,C,T,1190/1353,397/450,missense_variant c.1190G>A p.Arg397His,STM14_4216,envZ,osmolarity sensor protein
+      1 , 3673384,snp,T,G,124/1353,42/450,missense_variant c.124A>C p.Ser42Arg,STM14_4216,envZ,osmolarity sensor protein
+      1 , 3674299,snp,T,A
+      1 , 3674322,snp,T,C
+      1 , 3677388,snp,C,A
+      1 , 3677468,snp,T,C
+      1 , 3677567,snp,A,G,30/231,10/76,synonymous_variant c.30A>G p.Ala10Ala,STM14_4220,,hypothetical protein
+     64 , 3729980,ins,G,GT
+      1 , 3747352,snp,A,G,83/117,28/38,missense_variant c.83T>C p.Leu28Pro,STM14_4291,,hypothetical protein
+      1 , 3769765,snp,A,G,697/1068,233/355,synonymous_variant c.697T>C p.Leu233Leu,STM14_4315,yhiI,hypothetical protein
+      1 , 3839399,snp,G,A,936/2529,312/842,synonymous_variant c.936C>T p.Tyr312Tyr,STM14_4385,lpfC,long polar fimbrial outer membrane usher protein
+      1 , 3894107,snp,G,A
+      1 , 3894822,snp,C,A,630/684,210/227,synonymous_variant c.630C>A p.Val210Val,STM14_4449,,putative inner membrane lipoprotein
+      6 , 3896727,snp,G,A,1808/4386,603/1461,missense_variant c.1808G>A p.Ser603Asn,STM14_4450,,putative inner membrane protein
+      1 , 3925705,snp,A,T,452/699,151/232,missense_variant c.452T>A p.Leu151Gln,STM14_4477,rfaY,lipopolysaccharide core biosynthesis protein
+      1 , 3925724,snp,T,C,433/699,145/232,missense_variant c.433A>G p.Lys145Glu,STM14_4477,rfaY,lipopolysaccharide core biosynthesis protein
+      1 , 3926469,snp,C,A,721/1011,241/336,stop_gained c.721G>T p.Glu241*,STM14_4478,rfaJ,lipopolysaccharide glucosyltransferase
+      1 , 3944063,snp,A,G,136/183,46/60,missense_variant c.136A>G p.Ile46Val,STM14_4501,,hypothetical protein
+      1 , 3967287,snp,T,A
+      1 , 3968294,snp,T,A,534/618,178/205,missense_variant c.534T>A p.Asp178Glu,STM14_4526,rmbA,putative cytoplasmic protein
+      1 , 3973105,snp,T,C
+      1 , 4035504,snp,A,G,1552/2553,518/850,missense_variant c.1552T>C p.Cys518Arg,STM14_4614,torA,trimethylamine N-oxide reductase subunit
+      1 , 4042011,snp,G,T,1868/2736,623/911,missense_variant c.1868G>T p.Gly623Val,STM14_4618,torS,hybrid sensory histidine kinase TorS
+      1 , 4042021,snp,G,T,1878/2736,626/911,synonymous_variant c.1878G>T p.Leu626Leu,STM14_4618,torS,hybrid sensory histidine kinase TorS
+      1 , 4042022,snp,G,T,1879/2736,627/911,missense_variant c.1879G>T p.Gly627Trp,STM14_4618,torS,hybrid sensory histidine kinase TorS
+      1 , 4065796,snp,G,T,726/963,242/320,missense_variant c.726G>T p.Gln242His,STM14_4640,,putative inner membrane protein
+      1 , 407869,snp,C,A,1881/2976,627/991,missense_variant c.1881C>A p.Ser627Arg,STM14_0418,res,DNA restriction enzyme
+      1 , 407877,snp,T,G,1889/2976,630/991,missense_variant c.1889T>G p.Phe630Cys,STM14_0418,res,DNA restriction enzyme
+      1 , 4094848,ins,A,AT
+      1 , 4094904,snp,G,T,591/630,197/209,synonymous_variant c.591C>A p.Gly197Gly,STM14_4670,gidB,glucose-inhibited division protein B
+      1 , 4119040,snp,C,T,,,intragenic_variant n.4119040C>T ,STM14_4691,aspT,tRNA-Asp
+      2 , 4126790,snp,C,A,1113/1851,371/616,missense_variant c.1113C>A p.Asp371Glu,STM14_4701,ilvD,dihydroxy-acid dehydratase
+      1 , 4130432,snp,A,G,473/888,158/295,missense_variant c.473T>C p.Phe158Ser,STM14_4705,ilvY,DNA-binding transcriptional regulator IlvY
+      1 , 4233087,snp,C,T,494/735,165/244,missense_variant c.494G>A p.Gly165Glu,STM14_4823,,putative hydrolase
+      1 , 4263841,snp,T,C,72/135,24/44,synonymous_variant c.72T>C p.Ile24Ile,STM14_4856,,hypothetical protein
+      1 , 4263889,snp,T,G,120/135,40/44,stop_gained c.120T>G p.Tyr40*,STM14_4856,,hypothetical protein
+      1 , 4275943,snp,C,A
+      1 , 4275993,snp,A,T,8/126,3/41,missense_variant c.8A>T p.Asn3Ile,STM14_4873,,hypothetical protein
+      1 , 4297866,snp,C,T,781/1536,261/511,stop_gained c.781C>T p.Gln261*,STM14_4899,ego,putative ABC-type aldose transport system ATPase component
+      3 , 4315882,snp,C,T,1075/1191,359/396,missense_variant c.1075G>A p.Gly359Ser,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4315982,del,TTTCAGACCCTGGCGCTTGGCCCAGGAGAGGGCGCC,T,974/1191,314/396,frameshift_variant c.940_974delGGCGCCCTCTCCTGGGCCAAGCGCCAGGGTCTGAA p.Gly314fs,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4316004,snp,C,T,953/1191,318/396,stop_gained c.953G>A p.Trp318*,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4316067,ins,T,TGC,889/1191,297/396,frameshift_variant c.888_889dupGC p.Gln297fs,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      3 , 4316229,snp,C,T,728/1191,243/396,missense_variant c.728G>A p.Gly243Asp,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+     64 , 4316301,snp,T,A,656/1191,219/396,missense_variant c.656A>T p.Glu219Val,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4316332,snp,C,A,625/1191,209/396,stop_gained c.625G>T p.Glu209*,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4316464,snp,G,A,493/1191,165/396,stop_gained c.493C>T p.Gln165*,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4316674,snp,T,G,283/1191,95/396,missense_variant c.283A>C p.Thr95Pro,STM14_4922,cytR,DNA-binding transcriptional regulator CytR
+      1 , 4322462,snp,T,C
+      1 , 4389344,snp,G,T,414/1011,138/336,missense_variant c.414G>T p.Met138Ile,STM14_4996,,putative cytoplasmic protein
+      1 , 441461,snp,T,A
+      1 , 4432324,snp,T,A
+      1 , 4432855,snp,T,C
+      1 , 4434965,snp,T,C,764/1746,255/581,missense_variant c.764A>G p.Asn255Ser,STM14_5049,,putative phage tail fiber protein H
+      1 , 4451472,snp,A,G,38/141,13/46,missense_variant c.38A>G p.Tyr13Cys,STM14_5072,,hypothetical protein
+      1 , 4490779,complex,GATAA,TATAC
+      1 , 4490860,del,TC,T
+     63 , 4503221,snp,G,C,7206/16680,2402/5559,synonymous_variant c.7206G>C p.Val2402Val,STM14_5121,,putative inner membrane protein
+     26 , 4503258,snp,T,C,7243/16680,2415/5559,synonymous_variant c.7243T>C p.Leu2415Leu,STM14_5121,,putative inner membrane protein
+      1 , 4513793,snp,G,T,1059/2067,353/688,missense_variant c.1059G>T p.Trp353Cys,STM14_5122,,putative ABC-type bacteriocin/lantibiotic exporter
+      1 , 4516821,snp,T,G,899/1602,300/533,missense_variant c.899T>G p.Val300Gly,STM14_5126,yjcC,putative diguanylate cyclase/phosphodiesterase
+      1 , 4573912,del,TG,T,675/876,225/291,frameshift_variant c.675delC p.Phe225fs,STM14_5188,,putative DNA-binding protein
+      1 , 4574631,snp,C,A
+      1 , 4574694,snp,C,G
+      1 , 460067,snp,T,C,93/582,31/193,synonymous_variant c.93A>G p.Ala31Ala,STM14_0477,yajB,acyl carrier protein phosphodiesterase
+      1 , 4610002,snp,C,A
+      1 , 4673804,snp,G,T
+      1 , 4678363,snp,A,T,231/303,77/100,synonymous_variant c.231T>A p.Gly77Gly,STM14_5313,,putative cytoplasmic protein
+      1 , 4728318,snp,T,C,5/504,2/167,missense_variant c.5A>G p.Asn2Ser,STM14_5369,yjgM,putative acetyltransferase
+      1 , 4766627,snp,T,C,105/192,35/63,synonymous_variant c.105T>C p.Cys35Cys,STM14_5399,,hypothetical protein
+      5 , 4781891,snp,G,A
+      1 , 4791206,snp,A,G,643/1410,215/469,missense_variant c.643T>C p.Phe215Leu,STM14_5436,hsdS,type I restriction enzyme specificity protein
+      1 , 4856471,del,CT,C
+      1 , 4866470,snp,G,T
+      1 , 4866471,snp,A,G
+      1 , 491666,snp,T,G,718/1512,240/503,missense_variant c.718T>G p.Ser240Ala,STM14_0517,,putative periplasmic protein
+      1 , 499103,snp,A,G
+     64 , 515779,ins,C,CT
+      1 , 529685,snp,C,A
+     12 , 530941,snp,C,A,2150/3150,717/1049,missense_variant c.2150G>T p.Arg717Leu,STM14_0559,acrB,acridine efflux pump
+      5 , 532565,snp,G,T,526/3150,176/1049,missense_variant c.526C>A p.Gln176Lys,STM14_0559,acrB,acridine efflux pump
+      1 , 597479,snp,C,T,335/1068,112/355,missense_variant c.335G>A p.Arg112His,STM14_0623,purK,phosphoribosylaminoimidazole carboxylase ATPase subunit
+     64 , 609837,snp,A,T,469/1008,157/335,missense_variant c.469A>T p.Ile157Phe,STM14_0639,fimH,minor fimbrial subunit
+      1 , 612046,snp,C,A
+      1 , 623068,snp,G,A,316/561,106/186,missense_variant c.316G>A p.Ala106Thr,STM14_0661,,putative inner membrane protein
+      1 , 63608,snp,C,G,1242/1302,414/433,synonymous_variant c.1242G>C p.Ala414Ala,STM14_0064,,putative oxalacetate decarboxylase subunit beta
+      2 , 63707,snp,G,C,1143/1302,381/433,synonymous_variant c.1143C>G p.Val381Val,STM14_0064,,putative oxalacetate decarboxylase subunit beta
+      1 , 638840,snp,T,G,582/582,194/193,stop_lost&splice_region_variant c.582A>C p.Ter194Tyrext*?,STM14_0676,,putative regulatory protein
+      1 , 639137,snp,C,T,285/582,95/193,stop_gained c.285G>A p.Trp95*,STM14_0676,,putative regulatory protein
+      5 , 639370,snp,T,G,52/582,18/193,missense_variant c.52A>C p.Thr18Pro,STM14_0676,,putative regulatory protein
+      1 , 654979,snp,T,G,603/1245,201/414,synonymous_variant c.603T>G p.Val201Val,STM14_0691,ybdA,enterobactin exporter EntS
+      1 , 655362,snp,C,A,986/1245,329/414,stop_gained c.986C>A p.Ser329*,STM14_0691,ybdA,enterobactin exporter EntS
+      1 , 668566,snp,C,A,6/1236,2/411,synonymous_variant c.6G>T p.Ser2Ser,STM14_0704,ybdN,putative 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase
+      1 , 668644,snp,G,T
+      1 , 669570,snp,G,A,70/903,24/300,missense_variant c.70C>T p.His24Tyr,STM14_0705,ybdO,putative transcriptional regulator
+      1 , 675195,snp,A,G,798/2280,266/759,synonymous_variant c.798A>G p.Ser266Ser,STM14_0710,,putative oxidoreductase protein
+      1 , 675201,snp,T,C,804/2280,268/759,synonymous_variant c.804T>C p.Gly268Gly,STM14_0710,,putative oxidoreductase protein
+      1 , 735235,snp,T,C,1174/1425,392/474,missense_variant c.1174A>G p.Thr392Ala,STM14_0781,miaB,rRNA modification protein
+      1 , 75572,snp,T,C
+      1 , 766567,snp,C,A,96/114,32/37,synonymous_variant c.96C>A p.Val32Val,STM14_0820,,conserved hypothetical protein
+      1 , 766668,snp,G,A
+      1 , 766837,snp,C,A,677/678,226/225,stop_lost&splice_region_variant c.677G>T p.Ter226Leuext*?,STM14_0821,kdpE,DNA-binding transcriptional activator KdpE
+      1 , 766897,snp,T,C,617/678,206/225,missense_variant c.617A>G p.Asp206Gly,STM14_0821,kdpE,DNA-binding transcriptional activator KdpE
+      1 , 767486,snp,C,A,28/678,10/225,stop_gained c.28G>T p.Glu10*,STM14_0821,kdpE,DNA-binding transcriptional activator KdpE
+      1 , 791940,snp,T,G,559/834,187/277,missense_variant c.559T>G p.Phe187Val,STM14_0844,,putative glycosyltransferase
+      1 , 808867,snp,C,T
+      1 , 809700,snp,G,A
+      2 , 815551,snp,A,G,438/1224,146/407,synonymous_variant c.438A>G p.Lys146Lys,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      1 , 815558,snp,G,T,445/1224,149/407,stop_gained c.445G>T p.Glu149*,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      2 , 815560,snp,G,A,447/1224,149/407,synonymous_variant c.447G>A p.Glu149Glu,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      2 , 815566,snp,G,A,453/1224,151/407,synonymous_variant c.453G>A p.Glu151Glu,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      1 , 815681,snp,A,G,568/1224,190/407,missense_variant c.568A>G p.Lys190Glu,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      2 , 815692,complex,AGAG,GGAA,579/1224,193/407,synonymous_variant c.579_582delAGAGinsGGAA p.AlaGlu193AlaGlu,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      3 , 815835,snp,C,A,722/1224,241/407,missense_variant c.722C>A p.Ala241Glu,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      1 , 815896,snp,G,T,783/1224,261/407,synonymous_variant c.783G>T p.Ala261Ala,STM14_0869,tolA,cell envelope integrity inner membrane protein TolA
+      1 , 823276,del,CATGAGAGTGTGAGT,C,21/939,3/312,frameshift_variant c.8_21delACTCACACTCTCAT p.His3fs,STM14_0882,ybgR,zinc transporter ZitB
+      1 , 823284,del,TGTGA,T,13/939,4/312,frameshift_variant c.10_13delTCAC p.Ser4fs,STM14_0882,ybgR,zinc transporter ZitB
+      2 , 830737,snp,T,C,267/1776,89/591,synonymous_variant c.267T>C p.Tyr89Tyr,STM14_0891,dcoA
+      1 , 861369,snp,G,T,859/1041,287/346,missense_variant c.859G>T p.Gly287Cys,STM14_0920,bioB,biotin synthetase
+      1 , 876641,snp,G,T,3/561,1/186,initiator_codon_variant c.3G>T p.Met1?,STM14_940,,putative inner membrane protein
+      1 , 886265,snp,A,G,144/675,48/224,synonymous_variant c.144T>C p.Ile48Ile,STM14_950,ybiH,putative DNA-binding transcriptional regulator
+      1 , 927192,snp,A,T
+      1 , 927227,snp,A,T
+      1 , 938156,snp,T,G,399/759,133/252,missense_variant c.399A>C p.Lys133Asn,STM14_1014,deoR,DNA-binding transcriptional repressor DeoR
+      1 , 955418,snp,A,G,41/192,14/63,missense_variant c.41A>G p.Gln14Arg,STM14_1034,,conserved hypothetical protein
+      1 , 957013,snp,A,T,63/321,21/106,missense_variant c.63A>T p.Leu21Phe,STM14_1036,,putative inner membrane protein
+      1 , 95893,snp,C,T
+      1 , 95950,snp,A,G
+      1 , 95965,snp,T,C
+      1 , 95976,snp,A,G
+      1 , 970557,snp,T,A,727/972,243/323,missense_variant c.727A>T p.Thr243Ser,STM14_1051,hcr,"HCP oxidoreductase, NADH-dependent"
+      1 , 974388,del,TA,T,204/1659,68/552,frameshift_variant c.204delA p.Gly69fs,STM14_1056,ybjD,hypothetical protein
+      1 , 993113,snp,G,C,331/1767,111/588,missense_variant c.331C>G p.Pro111Ala,STM14_1079,cydD,cysteine/glutathione ABC transporter membrane/ATP-binding component
+     10 , 997940,snp,A,G,2241/4086,747/1361,synonymous_variant c.2241A>G p.Gln747Gln,STM14_1084,ftsK,DNA translocase FtsK
+      1 , 997982,snp,G,A,2283/4086,761/1361,synonymous_variant c.2283G>A p.Pro761Pro,STM14_1084,ftsK,DNA translocase FtsK
+      2 , 998000,snp,A,G,2301/4086,767/1361,synonymous_variant c.2301A>G p.Gln767Gln,STM14_1084,ftsK,DNA translocase FtsK
+      2 , 998015,snp,T,G,2316/4086,772/1361,synonymous_variant c.2316T>G p.Pro772Pro,STM14_1084,ftsK,DNA translocase FtsK
+      1 , 998117,snp,G,A,2418/4086,806/1361,synonymous_variant c.2418G>A p.Gln806Gln,STM14_1084,ftsK,DNA translocase FtsK
+      3 , 998138,snp,A,G,2439/4086,813/1361,synonymous_variant c.2439A>G p.Pro813Pro,STM14_1084,ftsK,DNA translocase FtsK
+      2 , 998156,snp,G,A,2457/4086,819/1361,synonymous_variant c.2457G>A p.Gln819Gln,STM14_1084,ftsK,DNA translocase FtsK

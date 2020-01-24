@@ -1,0 +1,120 @@
+IQ-TREE multicore version 1.6.1 for Linux 64-bit built Feb 16 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    n114312.nbi.ac.uk (AVX2, FMA3, 15 GB RAM)
+Command: iqtree-omp -redo -nt 8 -s Azi.aln -m HKY+G
+Seed:    390682 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 21 11:33:51 2019
+Kernel:  AVX+FMA - 8 threads (8 CPU cores detected)
+
+Reading alignment file Azi.aln ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 134057 sites contain only gaps or ambiguous characters.
+Alignment has 14 sequences with 4870265 columns, 1323 distinct patterns
+16 parsimony-informative, 79 singleton sites, 4870170 constant sites
+                        Gap/Ambiguity  Composition  p-value
+   1  14028Ssnps                2.83%    passed     99.72%
+   2  Azi-biofilm-E-B-S2snps    3.16%    passed     99.98%
+   3  Azi-biofilm-E-B-S3snps    3.25%    passed     99.93%
+   4  Azi-biofilm-L-B-S1snps    3.19%    passed     99.89%
+   5  Azi-biofilm-L-B-S2snps    3.15%    passed    100.00%
+   6  Azi-biofilm-M-B-S1snps    3.15%    passed     99.90%
+   7  Azi-biofilm-M-B-S2snps    2.89%    passed     93.57%
+   8  Azi-biofilm-M-B-S3snps    2.89%    passed     99.90%
+   9  Azi-plank-E-S1snps        3.17%    passed     99.87%
+  10  Azi-plank-E-S3snps        3.17%    passed     99.95%
+  11  Azi-plank-L-S1snps        3.14%    passed     99.92%
+  12  Azi-plank-M-S1snps        3.13%    passed    100.00%
+  13  Azi-plank-M-S2snps        3.12%    passed     99.88%
+  14  Azi-plank-M-S3snps        3.13%    passed    100.00%
+****  TOTAL                     3.10%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000020533 for long alignment
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6563064.689
+2. Current log-likelihood: -6563042.250
+3. Current log-likelihood: -6563040.600
+4. Current log-likelihood: -6563038.801
+5. Current log-likelihood: -6563036.831
+6. Current log-likelihood: -6563034.672
+7. Current log-likelihood: -6563032.310
+8. Current log-likelihood: -6563029.767
+9. Current log-likelihood: -6563027.148
+10. Current log-likelihood: -6563024.769
+11. Current log-likelihood: -6563023.264
+12. Current log-likelihood: -6563022.945
+Optimal log-likelihood: -6563022.945
+Rate parameters:  A-C: 1.00000  A-G: 4.12302  A-T: 1.00000  C-G: 1.00000  C-T: 4.12302  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 12 rounds (0.064 sec)
+Computing ML distances based on estimated model parameters... 0.022 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -6563084.762
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.047 second
+Computing log-likelihood of 98 initial trees ... 0.163 seconds
+Current best score: -6563022.558
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6563022.415
+UPDATE BEST LOG-LIKELIHOOD: -6563022.405
+Iteration 10 / LogL: -6563022.443 / Time: 0h:0m:2s
+Iteration 20 / LogL: -6563024.216 / Time: 0h:0m:3s
+Finish initializing candidate tree set (4)
+Current best tree score: -6563022.405 / CPU time: 0.447
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6563022.372
+Iteration 30 / LogL: -6563022.492 / Time: 0h:0m:3s (0h:0m:1s left)
+Iteration 40 / LogL: -6563022.461 / Time: 0h:0m:3s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -6563022.365
+Iteration 50 / LogL: -6563022.486 / Time: 0h:0m:3s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -6563022.361
+UPDATE BEST LOG-LIKELIHOOD: -6563022.352
+Iteration 60 / LogL: -6563022.474 / Time: 0h:0m:3s (0h:0m:0s left)
+UPDATE BEST LOG-LIKELIHOOD: -6563022.345
+Iteration 70 / LogL: -6563022.371 / Time: 0h:0m:3s (0h:0m:0s left)
+Iteration 80 / LogL: -6563022.386 / Time: 0h:0m:4s (0h:0m:0s left)
+Iteration 90 / LogL: -6563022.382 / Time: 0h:0m:4s (0h:0m:0s left)
+Iteration 100 / LogL: -6563024.103 / Time: 0h:0m:4s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6563022.345
+Optimal log-likelihood: -6563022.345
+Rate parameters:  A-C: 1.00000  A-G: 4.12838  A-T: 1.00000  C-G: 1.00000  C-T: 4.12838  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.005 sec)
+BEST SCORE FOUND : -6563022.345
+Total tree length: 0.000
+
+Total number of iterations: 102
+CPU time used for tree search: 14.254 sec (0h:0m:14s)
+Wall-clock time used for tree search: 1.880 sec (0h:0m:1s)
+Total CPU time used: 17.291 sec (0h:0m:17s)
+Total wall-clock time used: 4.534 sec (0h:0m:4s)
+
+Analysis results written to: 
+  IQ-TREE report:                Azi.aln.iqtree
+  Maximum-likelihood tree:       Azi.aln.treefile
+  Likelihood distances:          Azi.aln.mldist
+  Screen log file:               Azi.aln.log
+
+Date and Time: Thu Mar 21 11:33:57 2019

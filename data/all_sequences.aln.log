@@ -1,0 +1,218 @@
+IQ-TREE multicore version 1.6.1 for Linux 64-bit built Feb 16 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    n114312.nbi.ac.uk (AVX2, FMA3, 15 GB RAM)
+Command: iqtree-omp -redo -nt 8 -s all_sequences.aln -m HKY+G
+Seed:    110039 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 21 09:13:10 2019
+Kernel:  AVX+FMA - 8 threads (8 CPU cores detected)
+
+Reading alignment file all_sequences.aln ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 132919 sites contain only gaps or ambiguous characters.
+Alignment has 63 sequences with 4870265 columns, 6033 distinct patterns
+69 parsimony-informative, 350 singleton sites, 4869846 constant sites
+                        Gap/Ambiguity  Composition  p-value
+   1  14028Ssnps                2.83%    passed     98.90%
+   2  Azi-biofilm-E-B-S2snps    3.16%    passed     96.67%
+   3  Azi-biofilm-E-B-S3snps    3.25%    passed     94.34%
+   4  Azi-biofilm-L-B-S1snps    3.19%    passed     93.41%
+   5  Azi-biofilm-L-B-S2snps    3.15%    passed     96.13%
+   6  Azi-biofilm-M-B-S1snps    3.15%    passed     93.84%
+   7  Azi-biofilm-M-B-S2snps    2.89%    passed     99.51%
+   8  Azi-biofilm-M-B-S3snps    2.89%    passed     97.21%
+   9  Azi-plank-E-S1snps        3.17%    passed     93.52%
+  10  Azi-plank-E-S3snps        3.17%    passed     95.19%
+  11  Azi-plank-L-S1snps        3.14%    passed     98.53%
+  12  Azi-plank-M-S1snps        3.13%    passed     95.97%
+  13  Azi-plank-M-S2snps        3.12%    passed     93.28%
+  14  Azi-plank-M-S3snps        3.13%    passed     96.30%
+  15  Cef-biofilm-E-C-S1snps    2.87%    passed     99.99%
+  16  Cef-biofilm-E-D-S1snps    2.86%    passed     99.98%
+  17  Cef-biofilm-E-D-S3snps    3.14%    passed     94.32%
+  18  Cef-biofilm-L-C-S3snps    2.87%    passed     99.97%
+  19  Cef-biofilm-L-D-S1snps    2.86%    passed     97.58%
+  20  Cef-biofilm-L-D-S2snps    3.20%    passed     95.09%
+  21  Cef-biofilm-L-D-S3snps    3.15%    passed     95.59%
+  22  Cef-biofilm-M-C-S2snps    3.04%    passed     60.92%
+  23  Cef-biofilm-M-D-S1snps    3.12%    passed     95.51%
+  24  Cef-biofilm-M-D-S2snps    3.22%    passed     96.12%
+  25  Cef-biofilm-M-D-S3snps    3.14%    passed     97.08%
+  26  Control-E-S2snps          3.14%    passed     95.95%
+  27  Control-E-S3snps          3.24%    passed     96.66%
+  28  Control-L-S2snps          3.15%    passed     95.70%
+  29  Control-L-S3snps          3.17%    passed     93.46%
+  30  Control-M-S2snps          3.18%    passed     96.45%
+  31  Control-M-S3snps          3.13%    passed     96.80%
+  32  Cef-plank-E-A-S2snps      2.82%    passed     98.54%
+  33  Cef-plank-E-S3snps        3.17%    passed     95.89%
+  34  Cef-plank-L-S1snps        2.83%    passed     97.74%
+  35  Cef-plank-L-S2snps        3.17%    passed     95.06%
+  36  Cef-plank-L-S3snps        3.12%    passed     98.13%
+  37  Cef-plank-M-S1snps        3.17%    passed     93.14%
+  38  Cef-plank-M-S2snps        3.17%    passed     96.53%
+  39  Cef-plank-M-S3snps        3.14%    passed     94.81%
+  40  Cip-biofilm-E-A-S2snps    2.97%    passed     93.91%
+  41  Cip-biofilm-E-B-S1snps    3.16%    passed     95.99%
+  42  Cip-biofilm-E-B-S2snps    3.15%    passed     96.21%
+  43  Cip-biofilm-E-B-S3snps    3.03%    passed     51.39%
+  44  Cip-biofilm-E-C-S2snps    2.97%    passed     96.44%
+  45  Cip-biofilm-L-A-S1snps    2.90%    passed     98.81%
+  46  Cip-biofilm-L-A-S2snps    3.14%    passed     18.54%
+  47  Cip-biofilm-L-A-S3snps    3.06%    passed     57.09%
+  48  Cip-biofilm-L-B-S2snps    3.14%    passed     95.46%
+  49  Cip-biofilm-L-B-S3snps    3.41%    failed      0.00%
+  50  Cip-biofilm-L-C-S1snps    2.91%    passed     99.35%
+  51  Cip-biofilm-L-C-S2snps    3.82%    failed      0.00%
+  52  Cip-biofilm-M-B-S1snps    3.13%    passed     91.68%
+  53  Cip-biofilm-M-B-S2snps    2.99%    passed     76.07%
+  54  Cip-biofilm-M-B-S3snps    2.97%    passed     77.91%
+  55  Cip-biofilm-M-C-S1snps    3.01%    passed     88.13%
+  56  Cip-biofilm-M-C-S2snps    3.03%    passed     42.67%
+  57  Cip-plank-E-S1snps        3.19%    passed     92.88%
+  58  Cip-plank-E-S2snps        3.16%    passed     94.60%
+  59  Cip-plank-L-S2snps        3.13%    passed     94.47%
+  60  Cip-plank-L-S3snps        3.12%    passed     94.72%
+  61  Cip-plank-M-S1snps        3.12%    passed     96.60%
+  62  Cip-plank-M-S2snps        3.14%    passed     95.18%
+  63  Cip-plank-M-S3snps        3.17%    passed     94.09%
+****  TOTAL                     3.10%  2 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000020533 for long alignment
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+
+NOTE: 49 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6570975.641
+2. Current log-likelihood: -6570803.151
+3. Current log-likelihood: -6570789.549
+4. Current log-likelihood: -6570788.891
+5. Current log-likelihood: -6570788.668
+Optimal log-likelihood: -6570788.668
+Rate parameters:  A-C: 1.00000  A-G: 2.68736  A-T: 1.00000  C-G: 1.00000  C-T: 2.68736  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 5 rounds (1.097 sec)
+Computing ML distances based on estimated model parameters... 0.251 sec
+Computing BIONJ tree...
+0.002 seconds
+Log-likelihood of BIONJ tree: -6571181.700
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.563 second
+Computing log-likelihood of 98 initial trees ... 5.016 seconds
+Current best score: -6570728.932
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6570724.822
+Iteration 10 / LogL: -6570770.796 / Time: 0h:0m:25s
+Iteration 20 / LogL: -6570797.470 / Time: 0h:0m:29s
+Finish initializing candidate tree set (20)
+Current best tree score: -6570724.822 / CPU time: 14.383
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -6570724.807
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570724.794
+Iteration 30 / LogL: -6570724.794 / Time: 0h:0m:34s (0h:1m:8s left)
+UPDATE BEST LOG-LIKELIHOOD: -6570724.787
+Iteration 40 / LogL: -6570726.333 / Time: 0h:0m:39s (0h:0m:57s left)
+Iteration 50 / LogL: -6570724.934 / Time: 0h:0m:44s (0h:0m:48s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 58: -6570723.783
+Iteration 60 / LogL: -6570747.682 / Time: 0h:0m:48s (0h:0m:57s left)
+Iteration 70 / LogL: -6570724.818 / Time: 0h:0m:52s (0h:0m:49s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.769
+Iteration 80 / LogL: -6570725.219 / Time: 0h:0m:57s (0h:0m:43s left)
+Iteration 90 / LogL: -6570724.072 / Time: 0h:1m:1s (0h:0m:36s left)
+Iteration 100 / LogL: -6570724.111 / Time: 0h:1m:5s (0h:0m:30s left)
+Iteration 110 / LogL: -6570747.810 / Time: 0h:1m:9s (0h:0m:24s left)
+Iteration 120 / LogL: -6570743.814 / Time: 0h:1m:14s (0h:0m:19s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 123: -6570723.728
+BETTER TREE FOUND at iteration 129: -6570723.720
+Iteration 130 / LogL: -6570733.767 / Time: 0h:1m:19s (0h:0m:50s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.693
+Iteration 140 / LogL: -6570724.340 / Time: 0h:1m:24s (0h:0m:45s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.664
+Iteration 150 / LogL: -6570748.848 / Time: 0h:1m:29s (0h:0m:39s left)
+Iteration 160 / LogL: -6570723.805 / Time: 0h:1m:33s (0h:0m:34s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.511
+Iteration 170 / LogL: -6570733.718 / Time: 0h:1m:38s (0h:0m:29s left)
+Iteration 180 / LogL: -6570733.838 / Time: 0h:1m:42s (0h:0m:24s left)
+BETTER TREE FOUND at iteration 185: -6570723.503
+Iteration 190 / LogL: -6570734.416 / Time: 0h:1m:47s (0h:0m:46s left)
+Iteration 200 / LogL: -6570723.518 / Time: 0h:1m:51s (0h:0m:41s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 208: -6570723.463
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.407
+Iteration 210 / LogL: -6570723.627 / Time: 0h:1m:56s (0h:0m:47s left)
+Iteration 220 / LogL: -6570723.653 / Time: 0h:2m:0s (0h:0m:42s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.349
+Iteration 230 / LogL: -6570723.482 / Time: 0h:2m:4s (0h:0m:37s left)
+Iteration 240 / LogL: -6570723.641 / Time: 0h:2m:8s (0h:0m:32s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.339
+Iteration 250 / LogL: -6570747.680 / Time: 0h:2m:13s (0h:0m:27s left)
+Iteration 260 / LogL: -6570723.505 / Time: 0h:2m:17s (0h:0m:22s left)
+Iteration 270 / LogL: -6570735.300 / Time: 0h:2m:22s (0h:0m:18s left)
+BETTER TREE FOUND at iteration 274: -6570723.338
+Iteration 280 / LogL: -6570723.463 / Time: 0h:2m:26s (0h:0m:44s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 283: -6570723.246
+BETTER TREE FOUND at iteration 284: -6570723.239
+Iteration 290 / LogL: -6570741.746 / Time: 0h:2m:31s (0h:0m:44s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.197
+Iteration 300 / LogL: -6570723.197 / Time: 0h:2m:35s (0h:0m:39s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6570723.158
+Iteration 310 / LogL: -6570723.465 / Time: 0h:2m:40s (0h:0m:35s left)
+Iteration 320 / LogL: -6570723.398 / Time: 0h:2m:44s (0h:0m:30s left)
+Iteration 330 / LogL: -6570723.650 / Time: 0h:2m:49s (0h:0m:25s left)
+Iteration 340 / LogL: -6570723.304 / Time: 0h:2m:53s (0h:0m:20s left)
+Iteration 350 / LogL: -6570723.960 / Time: 0h:2m:57s (0h:0m:15s left)
+Iteration 360 / LogL: -6570748.754 / Time: 0h:3m:3s (0h:0m:11s left)
+Iteration 370 / LogL: -6570814.482 / Time: 0h:3m:7s (0h:0m:6s left)
+Iteration 380 / LogL: -6570723.404 / Time: 0h:3m:12s (0h:0m:1s left)
+TREE SEARCH COMPLETED AFTER 385 ITERATIONS / Time: 0h:3m:14s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6570723.158
+Optimal log-likelihood: -6570723.158
+Rate parameters:  A-C: 1.00000  A-G: 2.62747  A-T: 1.00000  C-G: 1.00000  C-T: 2.62747  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.229 sec)
+BEST SCORE FOUND : -6570723.158
+Total tree length: 0.000
+
+Total number of iterations: 385
+CPU time used for tree search: 1385.044 sec (0h:23m:5s)
+Wall-clock time used for tree search: 179.532 sec (0h:2m:59s)
+Total CPU time used: 1410.032 sec (0h:23m:30s)
+Total wall-clock time used: 194.964 sec (0h:3m:14s)
+
+Analysis results written to: 
+  IQ-TREE report:                all_sequences.aln.iqtree
+  Maximum-likelihood tree:       all_sequences.aln.treefile
+  Likelihood distances:          all_sequences.aln.mldist
+  Screen log file:               all_sequences.aln.log
+
+Date and Time: Thu Mar 21 09:16:30 2019

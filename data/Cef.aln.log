@@ -1,0 +1,121 @@
+IQ-TREE multicore version 1.6.1 for Linux 64-bit built Feb 16 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    n114312.nbi.ac.uk (AVX2, FMA3, 15 GB RAM)
+Command: iqtree-omp -redo -nt 8 -s Cef.aln -m HKY+G
+Seed:    613858 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 21 09:19:33 2019
+Kernel:  AVX+FMA - 8 threads (8 CPU cores detected)
+
+Reading alignment file Cef.aln ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 134433 sites contain only gaps or ambiguous characters.
+Alignment has 20 sequences with 4870265 columns, 1803 distinct patterns
+19 parsimony-informative, 69 singleton sites, 4870177 constant sites
+                        Gap/Ambiguity  Composition  p-value
+   1  14028Ssnps                2.83%    passed     99.97%
+   2  Cef-biofilm-E-C-S1snps    2.87%    passed     99.32%
+   3  Cef-biofilm-E-D-S1snps    2.86%    passed     98.40%
+   4  Cef-biofilm-E-D-S3snps    3.14%    passed     99.41%
+   5  Cef-biofilm-L-C-S3snps    2.87%    passed     99.08%
+   6  Cef-biofilm-L-D-S1snps    2.86%    passed     99.86%
+   7  Cef-biofilm-L-D-S2snps    3.20%    passed     99.36%
+   8  Cef-biofilm-L-D-S3snps    3.15%    passed     99.68%
+   9  Cef-biofilm-M-C-S2snps    3.04%    passed     41.36%
+  10  Cef-biofilm-M-D-S1snps    3.12%    passed     99.67%
+  11  Cef-biofilm-M-D-S2snps    3.22%    passed     99.74%
+  12  Cef-biofilm-M-D-S3snps    3.14%    passed     99.89%
+  13  Cef-plank-E-A-S2snps      2.82%    passed     99.90%
+  14  Cef-plank-E-S3snps        3.17%    passed     99.70%
+  15  Cef-plank-L-S1snps        2.83%    passed     99.75%
+  16  Cef-plank-L-S2snps        3.17%    passed     99.57%
+  17  Cef-plank-L-S3snps        3.12%    passed     99.97%
+  18  Cef-plank-M-S1snps        3.17%    passed     99.01%
+  19  Cef-plank-M-S2snps        3.17%    passed     99.83%
+  20  Cef-plank-M-S3snps        3.14%    passed     99.44%
+****  TOTAL                     3.05%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000020533 for long alignment
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6562564.663
+2. Current log-likelihood: -6562511.813
+3. Current log-likelihood: -6562507.543
+4. Current log-likelihood: -6562506.353
+Optimal log-likelihood: -6562506.269
+Rate parameters:  A-C: 1.00000  A-G: 3.32394  A-T: 1.00000  C-G: 1.00000  C-T: 3.32394  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 4 rounds (0.047 sec)
+Computing ML distances based on estimated model parameters... 0.004 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -6562555.292
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.072 second
+Computing log-likelihood of 98 initial trees ... 0.320 seconds
+Current best score: -6562486.756
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6562486.030
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -6562485.970
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -6562485.903
+Iteration 10 / LogL: -6562486.038 / Time: 0h:0m:4s
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6562485.833
+Iteration 20 / LogL: -6562486.011 / Time: 0h:0m:5s
+Finish initializing candidate tree set (13)
+Current best tree score: -6562485.833 / CPU time: 1.472
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -6562485.993 / Time: 0h:0m:5s (0h:0m:4s left)
+UPDATE BEST LOG-LIKELIHOOD: -6562485.826
+Iteration 40 / LogL: -6562485.857 / Time: 0h:0m:6s (0h:0m:3s left)
+UPDATE BEST LOG-LIKELIHOOD: -6562485.821
+Iteration 50 / LogL: -6562485.934 / Time: 0h:0m:6s (0h:0m:3s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6562485.809
+Iteration 60 / LogL: -6562485.946 / Time: 0h:0m:6s (0h:0m:2s left)
+Iteration 70 / LogL: -6562485.874 / Time: 0h:0m:7s (0h:0m:1s left)
+Iteration 80 / LogL: -6562485.831 / Time: 0h:0m:7s (0h:0m:1s left)
+Iteration 90 / LogL: -6562485.855 / Time: 0h:0m:8s (0h:0m:0s left)
+Iteration 100 / LogL: -6562485.839 / Time: 0h:0m:8s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 108 ITERATIONS / Time: 0h:0m:8s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6562485.809
+Optimal log-likelihood: -6562485.807
+Rate parameters:  A-C: 1.00000  A-G: 3.49902  A-T: 1.00000  C-G: 1.00000  C-T: 3.49902  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.015 sec)
+BEST SCORE FOUND : -6562485.807
+Total tree length: 0.000
+
+Total number of iterations: 108
+CPU time used for tree search: 34.164 sec (0h:0m:34s)
+Wall-clock time used for tree search: 4.562 sec (0h:0m:4s)
+Total CPU time used: 38.644 sec (0h:0m:38s)
+Total wall-clock time used: 8.706 sec (0h:0m:8s)
+
+Analysis results written to: 
+  IQ-TREE report:                Cef.aln.iqtree
+  Maximum-likelihood tree:       Cef.aln.treefile
+  Likelihood distances:          Cef.aln.mldist
+  Screen log file:               Cef.aln.log
+
+Date and Time: Thu Mar 21 09:19:44 2019

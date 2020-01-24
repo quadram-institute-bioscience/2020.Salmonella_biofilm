@@ -1,0 +1,145 @@
+IQ-TREE multicore version 1.6.1 for Linux 64-bit built Feb 16 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    n114312.nbi.ac.uk (AVX2, FMA3, 15 GB RAM)
+Command: iqtree-omp -redo -nt 8 -s Cip.aln -m HKY+G
+Seed:    163691 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 21 09:19:44 2019
+Kernel:  AVX+FMA - 8 threads (8 CPU cores detected)
+
+Reading alignment file Cip.aln ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 133273 sites contain only gaps or ambiguous characters.
+Alignment has 25 sequences with 4870265 columns, 3408 distinct patterns
+37 parsimony-informative, 227 singleton sites, 4870001 constant sites
+                        Gap/Ambiguity  Composition  p-value
+   1  14028Ssnps                2.83%    passed     80.64%
+   2  Cip-biofilm-E-A-S2snps    2.97%    passed     99.94%
+   3  Cip-biofilm-E-B-S1snps    3.16%    passed     69.53%
+   4  Cip-biofilm-E-B-S2snps    3.15%    passed     70.05%
+   5  Cip-biofilm-E-B-S3snps    3.03%    passed     86.33%
+   6  Cip-biofilm-E-C-S2snps    2.97%    passed     99.88%
+   7  Cip-biofilm-L-A-S1snps    2.90%    passed     99.23%
+   8  Cip-biofilm-L-A-S2snps    3.14%    passed     49.81%
+   9  Cip-biofilm-L-A-S3snps    3.06%    passed     90.11%
+  10  Cip-biofilm-L-B-S2snps    3.14%    passed     68.53%
+  11  Cip-biofilm-L-B-S3snps    3.41%    failed      0.06%
+  12  Cip-biofilm-L-C-S1snps    2.91%    passed     96.62%
+  13  Cip-biofilm-L-C-S2snps    3.82%    failed      0.00%
+  14  Cip-biofilm-M-B-S1snps    3.13%    passed     59.88%
+  15  Cip-biofilm-M-B-S2snps    2.99%    passed     98.05%
+  16  Cip-biofilm-M-B-S3snps    2.97%    passed     98.32%
+  17  Cip-biofilm-M-C-S1snps    3.01%    passed     99.62%
+  18  Cip-biofilm-M-C-S2snps    3.03%    passed     79.45%
+  19  Cip-plank-E-S1snps        3.19%    passed     62.32%
+  20  Cip-plank-E-S2snps        3.16%    passed     66.12%
+  21  Cip-plank-L-S2snps        3.13%    passed     66.00%
+  22  Cip-plank-L-S3snps        3.12%    passed     66.23%
+  23  Cip-plank-M-S1snps        3.12%    passed     71.36%
+  24  Cip-plank-M-S2snps        3.14%    passed     67.31%
+  25  Cip-plank-M-S3snps        3.17%    passed     64.87%
+****  TOTAL                     3.11%  2 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000020533 for long alignment
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 11 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -6567104.640
+2. Current log-likelihood: -6567057.829
+3. Current log-likelihood: -6567047.321
+4. Current log-likelihood: -6567037.912
+5. Current log-likelihood: -6567032.077
+6. Current log-likelihood: -6567030.854
+Optimal log-likelihood: -6567030.852
+Rate parameters:  A-C: 1.00000  A-G: 2.42042  A-T: 1.00000  C-G: 1.00000  C-T: 2.42042  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 6 rounds (0.176 sec)
+Computing ML distances based on estimated model parameters... 0.027 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -6567151.998
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.146 second
+Computing log-likelihood of 98 initial trees ... 0.641 seconds
+Current best score: -6566995.039
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -6566994.527
+Iteration 10 / LogL: -6567009.192 / Time: 0h:0m:6s
+Iteration 20 / LogL: -6567012.011 / Time: 0h:0m:7s
+Finish initializing candidate tree set (20)
+Current best tree score: -6566994.527 / CPU time: 2.589
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -6566994.187
+Iteration 30 / LogL: -6566994.549 / Time: 0h:0m:8s (0h:0m:12s left)
+Iteration 40 / LogL: -6566994.582 / Time: 0h:0m:9s (0h:0m:10s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6566994.085
+Iteration 50 / LogL: -6566994.567 / Time: 0h:0m:10s (0h:0m:8s left)
+Iteration 60 / LogL: -6567001.738 / Time: 0h:0m:10s (0h:0m:7s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 65: -6566993.904
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6566993.873
+Iteration 70 / LogL: -6566994.301 / Time: 0h:0m:12s (0h:0m:10s left)
+Iteration 80 / LogL: -6566994.358 / Time: 0h:0m:12s (0h:0m:8s left)
+Iteration 90 / LogL: -6566994.395 / Time: 0h:0m:13s (0h:0m:7s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 99: -6566993.847
+Iteration 100 / LogL: -6566994.280 / Time: 0h:0m:15s (0h:0m:10s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 110: -6566993.812
+Iteration 110 / LogL: -6566993.812 / Time: 0h:0m:15s (0h:0m:10s left)
+Iteration 120 / LogL: -6566995.116 / Time: 0h:0m:17s (0h:0m:9s left)
+BETTER TREE FOUND at iteration 126: -6566993.804
+Iteration 130 / LogL: -6567001.830 / Time: 0h:0m:17s (0h:0m:9s left)
+Iteration 140 / LogL: -6566993.898 / Time: 0h:0m:18s (0h:0m:8s left)
+Iteration 150 / LogL: -6566993.875 / Time: 0h:0m:19s (0h:0m:7s left)
+Iteration 160 / LogL: -6566993.817 / Time: 0h:0m:21s (0h:0m:6s left)
+Iteration 170 / LogL: -6567000.706 / Time: 0h:0m:21s (0h:0m:5s left)
+Iteration 180 / LogL: -6566994.136 / Time: 0h:0m:22s (0h:0m:4s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -6566993.761
+Iteration 190 / LogL: -6566993.761 / Time: 0h:0m:23s (0h:0m:3s left)
+Iteration 200 / LogL: -6566994.663 / Time: 0h:0m:23s (0h:0m:2s left)
+Iteration 210 / LogL: -6567006.216 / Time: 0h:0m:24s (0h:0m:1s left)
+Iteration 220 / LogL: -6566993.814 / Time: 0h:0m:24s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 227 ITERATIONS / Time: 0h:0m:25s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -6566993.761
+Optimal log-likelihood: -6566993.761
+Rate parameters:  A-C: 1.00000  A-G: 2.41319  A-T: 1.00000  C-G: 1.00000  C-T: 2.41319  G-T: 1.00000
+Base frequencies:  A: 0.239  C: 0.261  G: 0.261  T: 0.239
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.036 sec)
+BEST SCORE FOUND : -6566993.761
+Total tree length: 0.000
+
+Total number of iterations: 227
+CPU time used for tree search: 152.805 sec (0h:2m:32s)
+Wall-clock time used for tree search: 20.577 sec (0h:0m:20s)
+Total CPU time used: 159.071 sec (0h:2m:39s)
+Total wall-clock time used: 25.499 sec (0h:0m:25s)
+
+Analysis results written to: 
+  IQ-TREE report:                Cip.aln.iqtree
+  Maximum-likelihood tree:       Cip.aln.treefile
+  Likelihood distances:          Cip.aln.mldist
+  Screen log file:               Cip.aln.log
+
+Date and Time: Thu Mar 21 09:20:11 2019
